@@ -14,13 +14,13 @@
                     <string>http://zkzs.zbedu.net/lzreg/js/lzapple.ipa</string>
                 </dict>
 		<dict>
-          <key>kind</key>
-          <string>display-image</string>
-          <key>needs-shine</key>
-          <true/>
-          <key>url</key>
-          <string>http://zkzs.zbedu.net/lzreg/js/icon_05.png</string>
-        </dict>
+		    <key>kind</key>
+          	    <string>display-image</string>
+         	    <key>needs-shine</key>
+         	    <true/>
+         	    <key>url</key>
+         	    <string>http://zkzs.zbedu.net/lzreg/js/icon_05.png</string>
+     	 	</dict>
             </array>
             <key>metadata</key>
             <dict>
